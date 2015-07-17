@@ -1,3 +1,4 @@
+# implemented by jmwsoft@gmail.com
 from bs4 import BeautifulSoup
 import urllib2
 
