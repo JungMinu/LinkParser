@@ -1,2 +1,2 @@
 # LinkParser
-## Python based HTML Parsing Module
+Python based HTML Parsing Module
